@@ -47,7 +47,7 @@ Full container escape was not achieved due to proper Docker isolation. However, 
 
 ## Author
 
-Elliot | AI Security Researcher
+Yameen Shaikh  | AI Security Researcher | Penetration Tester | Security Analyst
 
 ## Disclaimer
 
